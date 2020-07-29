@@ -1,1 +1,2 @@
 # Obesity-Calculator
+A user is asked for their hieght and wieght. Then their BMI is calulated using this formula (https://www.cdc.gov/healthyweight/assessing/bmi/childrens_bmi/childrens_bmi_formula.html#:~:text=The%20formula%20for%20BMI%20is,to%20convert%20this%20to%20meters.&text=When%20using%20English%20measurements%2C%20pounds%20should%20be%20divided%20by%20inches%20squared). Then They are told their BMI and if they are obese using this definition of obesity (https://www.cdc.gov/obesity/adult/defining.html).
